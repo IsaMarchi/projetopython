@@ -1,4 +1,4 @@
-# projetopython
+# projetoPython
 Projeto desenvolvido para o curso de "Programação - Aperfeiçoamento" do IEFP Seixal, sob orientação do formador Fernando Loureiro. 
 OBJETIVO DO SISTEMA: 
 
